@@ -6,6 +6,6 @@ using namespace std;
 
 int main()
 {
-	cout << "hello boi";
+	cout << "hello boi"<< "Goodbye boi";
 	cin.get();
 }
